@@ -1,4 +1,5 @@
+Wed Jul 23 04:53:54 PM +05 2025
 /home/user/Home_Work/First_Script
-
+user     pts/1        2025-07-23 07:37
 Operating System: Debian GNU/Linux 12 (bookworm)
           Kernel: Linux 6.6.87.2-microsoft-standard-WSL2
